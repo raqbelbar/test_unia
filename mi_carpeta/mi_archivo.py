@@ -8,3 +8,6 @@ def resta(a,b):
     
 def multiplicar(a,b):
     return a*b
+
+def adios(a):
+    return a
